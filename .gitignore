@@ -2,3 +2,5 @@ records500/
 WFDB/
 X_raw.npy
 Y_raw.csv
+2000_generated_ecg_signals.npy
+10000_generated_ecg_signals.npy
